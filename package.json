@@ -26,6 +26,8 @@
 		"optimist": "*",
 		"promised-io": "*",
 		"request":"*",
-		"fs-extra":"*"
+		"fs-extra":"*",
+		"tar":"*",
+		"rql":"*"
 	}
 }
