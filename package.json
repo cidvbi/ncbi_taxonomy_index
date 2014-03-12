@@ -1,5 +1,5 @@
 {
-	"name": "ncbi-taxonomy-parser",
+	"name": "ncbi-taxonomy-index",
 	"description": "NCBI Taxonomy Parser",
 	"author": "Dustin Machi",
 	"version": "0.0.2",
@@ -11,15 +11,16 @@
   	  	}
 	],
 	"bugs": { 
-		"url" : "http://github.com/cidvbi/ncbi-taxonomy-parser/issues",
+		"url" : "http://github.com/cidvbi/ncbi-taxonomy-index/issues",
 		"email" : "dmachi@vbi.vt.edu"
 	},
 	"repository": { 
-		"url" : "http://github.com/cidvbi/ncbi-taxonomy-parser.git",
+		"url" : "http://github.com/cidvbi/ncbi-taxonomy-index.git",
 		"type" : "git"
 	},
 	
-	"bin": {"parseTaxonDump":"./index.js"},
+	"bin": {"ncbi_taxonomy":"./index.js"},
+
 	"main": "./index.js",
 
 	"dependencies": {
