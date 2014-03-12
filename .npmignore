@@ -1,0 +1,5 @@
+taxdump.tar.gz
+taxdump.tar
+node_modules/
+dump/
+ncbi_index*.json
